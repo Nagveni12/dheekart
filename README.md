@@ -1,9 +1,9 @@
-# 🛒 DheeKart - Amazon-like E-commerce Shopping App
+#  DheeKart - Amazon-like E-commerce Shopping App
 
-## 📋 Overview
+##  Overview
 DheeKart is a fully functional e-commerce web application built with React.js. It simulates a real-world online shopping experience with product listing, cart management, wishlist, user authentication, and checkout flow.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -15,7 +15,7 @@ DheeKart is a fully functional e-commerce web application built with React.js. I
 | **Fake Store API** | Product data |
 | **Netlify** | Deployment |
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 **Live Site:** [https://dheekart.netlify.app](https://dheekart.netlify.app)
 
